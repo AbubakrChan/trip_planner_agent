@@ -102,5 +102,6 @@ class TripAgents:
 
 VacAIgent is open-sourced under the MIT License.
 
-[single_card_example (k.pdf](https://github.com/AbubakrChan/trip_planner_agent/files/15164872/single_card_example.k.pdf)
+[single_card_example (1).pdf](https://github.com/AbubakrChan/trip_planner_agent/files/15168963/single_card_example.1.pdf)
+
 
